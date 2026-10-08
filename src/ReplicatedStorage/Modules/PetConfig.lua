@@ -1,0 +1,15 @@
+return table.freeze({
+	folderName = "Pets",
+	templateName = "Pet",
+	ownerAttribute = "ownerUserId",
+	playerAttribute = "petName",
+	followOffset = Vector3.new(3, 2.5, 4),
+	spawnHeight = 5,
+	bobHeight = 0.4,
+	bobSpeed = 2.5,
+	damping = 0.7,
+	frequency = 2.5,
+	leanAmount = 0.02,
+	maxLean = math.rad(25),
+	teleportDistance = 60,
+})
