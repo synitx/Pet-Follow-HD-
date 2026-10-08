@@ -7,6 +7,6 @@ THE WHOLE SYSTEM IS IN 2 SCRIPTS
 
 Locations
 
-`PetController` - ServerScriptService/Controllers/PetController.lua
+**PetController** - `ServerScriptService/Controllers/PetController.lua`
 
-`PetControllerClient` - StarterPlayer/StarterPlayerScripts/Controllers/PetControllerClient.lua
+**PetControllerClient** - `StarterPlayer/StarterPlayerScripts/Controllers/PetControllerClient.lua`
